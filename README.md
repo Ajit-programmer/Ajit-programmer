@@ -6,8 +6,8 @@ Building intelligent systems with real-world impact 🚀
 </p>
 
 <p align="center">
-    <a href="YOUR_LINKEDIN_LINK" target="_blank">
-        <img src="https://www.linkedin.com/in/ajit-gupta-1139ab2a7/?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/ajit-gupta-1139ab2a7" target="_blank">
+        <img src="https://www.linkedin.com/in/ajit-gupta-1139ab2a7?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/Ajit-programmer" target="_blank">
         <img src="https://github.com/Ajit-programmer?style=for-the-badge&logo=github&logoColor=white" />
