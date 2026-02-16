@@ -1,75 +1,90 @@
 <h1 align="center">Hi 👋, I'm Ajit Gupta</h1>
-<h3 align="center">AI/ML Engineer | Computer Vision | Full Stack Developer</h3>
+<h3 align="center">AI/ML Engineer · Computer Vision · Applied Machine Learning</h3>
 
 <p align="center">
-📍 Mumbai, India | 🎓 B.Tech CSE (2022–2026) | CGPA: 7.6
+Building intelligent systems with real-world impact 🚀
+</p>
+
+<p align="center">
+    <a href="YOUR_LINKEDIN_LINK" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/Ajit-programmer" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:ajit12sci324@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🔬 AI/ML Intern at IBM SkillsBuild & Shell Skills4Future
-- 🧠 Built YOLO-based Waste Detection System (7,000+ images)
-- 📹 Developed RAG-Based Video Question Answering System using LLaMA
-- 🌐 Full-Stack Developer (Node.js, Express, MongoDB)
-- 📊 Strong in Machine Learning, Computer Vision & Data Analytics
+- 🎓 B.Tech CSE @ KJSIT (2022–2026)
+- 🔬 AI/ML Intern (IBM SkillsBuild & Shell Skills4Future)
+- 🗑 Built YOLO-based Waste Detection System (7,000+ images, mAP@50–95)
+- 📹 Developed RAG-Based Video QA System using LLaMA + Embeddings
+- 📊 Strong in ML pipelines, model evaluation & data preprocessing
+- 🎯 Interested in Computer Vision, Generative AI & Applied AI Systems
+
+---
+
+## 🚀 Featured Projects
+
+### 🗑 Garbage Detection App (YOLOv8)
+- 6-class waste detection system
+- Data augmentation + early stopping
+- mAP@50–95 evaluation
+- Real-time inference with OpenCV
+
+🔗 [View Project](https://github.com/Ajit-programmer/garbage-detection-app)
+
+---
+
+### 📹 RAG-Based Video Question Answering
+- Built embedding-based retrieval pipeline
+- Integrated LLaMA for context-aware responses
+- Reduced hallucination via chunk-based retrieval
+
+🔗 [View Project](https://github.com/Ajit-programmer/RAG-Video-Intelligence)
+
+---
+
+### 🏠 Wanderlust – Full Stack Platform
+- Node.js + Express + MongoDB
+- Authentication using Passport.js
+- Secure session management
+
+🔗 [View Project](https://github.com/Ajit-programmer/WANDERLUST_AIRBNB)
 
 ---
 
 ## 🛠 Technical Skills
 
-### 👨‍💻 Programming
+### 💻 Programming
 Python | Java | JavaScript | SQL
 
 ### 🤖 AI / ML
-YOLOv8 | OpenCV | Scikit-learn | Pandas | NumPy  
-RAG | LLaMA | Embeddings | Model Evaluation | Cross Validation  
+YOLOv8 | OpenCV | Scikit-learn  
+Pandas | NumPy | Model Evaluation  
+RAG | LLaMA | Embeddings  
 
-### 🌐 Web Development
+### 🌐 Web
 Node.js | Express.js | MongoDB | Bootstrap | HTML | CSS  
-
-### 🧰 Tools
-Git | GitHub | VS Code | Jupyter | Google Colab | Postman | LabelImg  
-
----
-
-## 📌 Featured Projects
-
-### 🗑 Garbage Detection App (YOLOv8)
-Real-time waste classification into 6 categories using YOLOv8 + OpenCV  
-- mAP@50–95 evaluation  
-- Data augmentation & early stopping  
-- Flask-based deployment  
-
-🔗 [View Repository](https://github.com/Ajit-programmer/garbage-detection-app)
-
----
-
-### 📹 RAG-Based Video Question Answering System
-- Built retrieval pipeline using embeddings
-- Integrated LLaMA for context-aware answer generation
-- Reduced hallucination using chunk-based retrieval  
-
----
-
-### 🏠 Wanderlust – Airbnb-Like Platform
-Full-stack property listing platform  
-- Authentication using Passport.js  
-- MongoDB database integration  
-- Responsive UI with Bootstrap  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ajit-programmer&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ajit-programmer&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Contribution Graph
 
-- 📧 ajit12sci324@gmail.com
-- 🔗 LinkedIn: (Add your link here)
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajit-programmer&theme=github-compact" />
+</p>
