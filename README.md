@@ -7,10 +7,10 @@ Building intelligent systems with real-world impact 🚀
 
 <p align="center">
     <a href="YOUR_LINKEDIN_LINK" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img src="https://www.linkedin.com/in/ajit-gupta-1139ab2a7/?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/Ajit-programmer" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://github.com/Ajit-programmer?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="mailto:ajit12sci324@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -74,6 +74,38 @@ RAG | LLaMA | Embeddings
 Node.js | Express.js | MongoDB | Bootstrap | HTML | CSS  
 
 ---
+
+## 🛠 Technical Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55"/><br>Python</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55"/><br>Java</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55"/><br>JavaScript</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/><br>SQL</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55"/><br>Git</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55"/><br>GitHub</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55"/><br>PyTorch</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=opencv" width="55" height="55"/><br>OpenCV</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55"/><br>Scikit-Learn</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/><br>TensorFlow</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/><br>Flask</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=anaconda" width="55" height="55"/><br>Jupyter</td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55"/><br>Node.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55"/><br>Express.js</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/><br>MongoDB</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55"/><br>HTML</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55"/><br>CSS</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55"/><br>Bootstrap</td>
+  </tr>
+</table>
+
 
 ## 📊 GitHub Stats
 
