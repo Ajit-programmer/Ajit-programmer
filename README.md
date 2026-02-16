@@ -110,10 +110,19 @@ Node.js | Express.js | MongoDB | Bootstrap | HTML | CSS
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ajit-programmer&show_icons=true&theme=radical" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Ajit-programmer&theme=transparent&hide_border=false" />
 </p>
 
----
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ajit-programmer&show_icons=true&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajit-programmer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<b>Note:</b> Top languages reflect public repositories and may not represent overall expertise.
+
 
 ## 📈 Contribution Graph
 
