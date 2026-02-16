@@ -1,80 +1,68 @@
 <div align="center">
 
-# 👨‍💻 Ajit Gupta
+# Hi there, I'm Ajit Gupta 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Computer+Vision+Specialist+%F0%9F%91%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&height=100&lines=AI%2FML+Engineer+%7C+Building+Intelligent+Systems;Computer+Vision+Specialist+%7C+YOLO+Expert;Full+Stack+Developer+%7C+MERN+Enthusiast;Turning+Data+Into+Actionable+Insights" alt="Typing SVG" />
 
-<p>
-    <a href="https://www.linkedin.com/in/ajit-gupta-1139ab2a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/Ajit-programmer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-    <a href="mailto:ajit12sci324@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="tel:+918976077199"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ajit-gupta-1139ab2a7"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ajit12sci324@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/Ajit-programmer"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ajit-programmer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ajit-programmer&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
 
-```python
-class AjitGupta:
-    def __init__(self):
-        self.name = "Ajit Gupta"
-        self.role = "AI/ML Engineer"
-        self.location = "Mumbai, India 🇮🇳"
-        self.education = "B.Tech CSE @ KJSIT (2022-2026)"
-        self.interests = ["Computer Vision", "Deep Learning", 
-                         "Generative AI", "Full Stack Dev"]
-    
-    def current_focus(self):
-        return {
-            "learning": ["LLMs", "RAG Systems", "Advanced YOLO"],
-            "working_on": ["Video QA Systems", "Waste Detection"],
-            "collaborating": ["Open Source AI Projects"]
-        }
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together! 🚀")
+I'm a **passionate AI/ML Engineer** from Mumbai, India, specializing in **Computer Vision** and **Deep Learning**. Currently pursuing B.Tech in Computer Science at KJSIT, I love building intelligent systems that solve real-world problems.
 
-me = AjitGupta()
-me.say_hi()
-```
+- 🔭 Working on **Video Intelligence Systems** & **YOLO-based Detection**
+- 🌱 Learning **LLMs, RAG Architectures, Advanced Computer Vision**
+- 👯 Open to collaborate on **AI/ML Projects & Open Source**
+- 💬 Ask me about **Python, YOLO, RAG, Full Stack Development**
+- 📫 Reach me: **ajit12sci324@gmail.com**
+- ⚡ Fun fact: **Debugger by day, Cricket Player by evening!**
+
+<br clear="right"/>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 IBM SkillsBuild
-**AI/ML Intern** | *Nov 2025 - Dec 2025*
+### 🔹 IBM SkillsBuild
+**AI/ML Intern** • *Nov - Dec 2025*
 
-```bash
-✓ House Price Prediction (20K+ records)
-✓ Stratified Sampling & Data Preprocessing
-✓ Model Comparison (Linear, DT, RF)
-✓ Cross-validation & Hyperparameter Tuning
-```
+- Built **House Price Prediction** model on 20K+ records
+- Implemented stratified sampling & feature engineering
+- Compared ML models: Linear Regression, Decision Tree, Random Forest
+- Achieved optimal performance through cross-validation
+
+**Tech:** Python, Scikit-learn, Pandas, NumPy
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛢️ Shell Skills4Future  
-**AI & Data Analytics Intern** | *Oct 2025 - Nov 2025*
+### 🔹 Shell Skills4Future
+**AI & Data Analytics Intern** • *Oct - Nov 2025*
 
-```bash
-✓ YOLO Waste Classification (7K+ images)
-✓ Data Augmentation & Model Training
-✓ Achieved 72% Accuracy (mAP@50-95)
-✓ Real-time OpenCV Integration
-```
+- Developed **YOLO-based Waste Classifier** with 7K+ images
+- Annotated custom dataset using LabelImg
+- Achieved **72% accuracy** with mAP@50-95 metrics
+- Implemented real-time detection with OpenCV
+
+**Tech:** YOLOv8, OpenCV, Python, LabelImg
 
 </td>
 </tr>
@@ -85,177 +73,179 @@ me.say_hi()
 ## 🎯 Featured Projects
 
 <details open>
-<summary><b>🗑️ YOLO-Based Waste Classification System</b></summary>
+<summary><b>🗑️ Waste Classification System</b> • YOLOv8 | OpenCV | Python</summary>
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajit-programmer/garbage-detection-app)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+```yaml
+Description: Real-time 6-class waste detection system for automated recycling
+Dataset: 7,000+ annotated images with augmentation
+Architecture: YOLOv8 with custom training pipeline
+Performance: 72% accuracy (mAP@50-95)
+Features:
+  - Custom dataset annotation with LabelImg
+  - Data augmentation & early stopping
+  - Real-time inference with OpenCV
+  - Model performance visualization
 ```
-🎯 6-class waste detection system
-📊 Annotated 500+ images using LabelImg
-🔥 Early stopping to reduce overfitting
-📈 Evaluated using mAP@50-95 metrics
-⚡ Real-time inference with OpenCV
-```
 
-**Tech Stack:** YOLOv8 • OpenCV • LabelImg • Python
+**🔗 [View Repository](https://github.com/Ajit-programmer/garbage-detection-app)**
+
+**Impact:** Helps automate waste sorting, promoting sustainability
 
 </details>
 
 <details open>
-<summary><b>📹 RAG-Based Video Question Answering System</b></summary>
+<summary><b>📹 RAG-Based Video Q&A System</b> • LLaMA 3.2 | RAG | Embeddings</summary>
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajit-programmer/RAG-Video-Intelligence)
-![LLaMA](https://img.shields.io/badge/LLaMA_3.2-412991?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-4ECDC4?style=flat-square)
-
+```yaml
+Description: Intelligent video question-answering with retrieval-augmented generation
+Architecture: RAG pipeline with semantic search
+Embedding: nomic-embed-text for high-quality retrieval
+LLM: LLaMA 3.2 for context-aware generation
+Features:
+  - Transcript chunking with overlap strategy
+  - Cosine similarity-based retrieval
+  - Hallucination reduction via RAG
+  - Modular & scalable design
 ```
-🧠 Built embedding-based retrieval pipeline
-🔍 nomic-embed-text for semantic search
-🎯 LLaMA 3.2 for context-aware generation
-📉 Reduced hallucination via RAG
-⚙️ Modular & scalable architecture
-```
 
-**Tech Stack:** LLaMA 3.2 • Nomic Embeddings • Python • RAG
+**🔗 [View Repository](https://github.com/Ajit-programmer/RAG-Video-Intelligence)**
+
+**Impact:** Enables efficient information extraction from video content
 
 </details>
 
 <details>
-<summary><b>🏠 Wanderlust - Airbnb Clone Platform</b></summary>
+<summary><b>🏠 Wanderlust Platform</b> • Node.js | Express | MongoDB</summary>
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajit-programmer/WANDERLUST_AIRBNB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
+```yaml
+Description: Full-stack property rental platform (Airbnb clone)
+Backend: Node.js + Express.js with RESTful APIs
+Database: MongoDB with Mongoose ODM
+Authentication: Passport.js with session management
+Features:
+  - User authentication & authorization
+  - CRUD operations for property listings
+  - Review & rating system
+  - Responsive Bootstrap UI
+  - Session persistence with Connect-Mongo
 ```
-🔐 Secure authentication with Passport.js
-💾 Session management with Connect-Mongo
-📱 Responsive Bootstrap UI
-⭐ Review & rating system
-🏡 Full CRUD for property listings
-```
 
-**Tech Stack:** Node.js • Express • MongoDB • Bootstrap • Passport.js
+**🔗 [View Repository](https://github.com/Ajit-programmer/WANDERLUST_AIRBNB)**
+
+**Impact:** Demonstrates full-stack capabilities with modern web technologies
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI/ML & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🌐 Web Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔧 Tools & Platforms
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance Metrics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ajit-programmer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajit-programmer&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajit-programmer&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajit-programmer&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajit-programmer&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ajit-programmer&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| 🎓 Certification | 🏢 Organization | 📅 Date |
-|:----------------|:---------------|:--------|
-| Machine Learning for Data Science | IBM SkillsBuild | 2025 |
-| Web Development Bootcamp | Apna College | 2025 |
-| Data Structures & Algorithms | Apna College | 2025 |
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajit-programmer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ajit-programmer&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
 
 </div>
 
 ---
 
-## 💡 What I'm Currently Up To
+## 🎓 Certifications & Learning
 
-<table>
+<div align="center">
+
+| Certification | Organization | Year |
+|:-------------|:------------|:----:|
+| 🎖️ Machine Learning for Data Science Projects | IBM SkillsBuild | 2025 |
+| 🎖️ Web Development Bootcamp | Apna College | 2025 |
+| 🎖️ Data Structures & Algorithms | Apna College | 2025 |
+
+</div>
+
+---
+
+## 💡 Current Focus
+
+<table align="center">
 <tr>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 📚 Learning
-```yaml
-- Advanced RAG Systems
-- Fine-tuning LLMs
-- Production ML Ops
-- Advanced YOLO Models
+### 🎯 Learning
+```python
+• Advanced RAG Systems
+• Fine-tuning LLMs  
+• MLOps & Deployment
+• Advanced YOLO (v9/v10)
+• Transformer Architectures
 ```
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🔨 Building
-```yaml
-- Video Intelligence App
-- AI-Powered Search
-- Real-time CV Projects
-- Full-Stack Apps
+```python
+• Video Intelligence Apps
+• Real-time CV Solutions
+• Full-stack AI Platforms
+• Open Source Tools
+• Production ML Systems
 ```
 
 </td>
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### 🎯 Goals 2026
-```yaml
-- Contribute to OSS
-- Build SaaS Product
-- Write Tech Blogs
-- Land ML/AI Role
+### 🚀 Goals 2026
+```python
+• Contribute to AI OSS
+• Build AI SaaS Product
+• Technical Blogging
+• Land ML Engineer Role
+• Research Publications
 ```
 
 </td>
@@ -264,11 +254,11 @@ me.say_hi()
 
 ---
 
-## 🎨 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajit-programmer&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+[![Ajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajit-programmer&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -280,85 +270,74 @@ me.say_hi()
 
 ---
 
-## 🎯 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Ajit-programmer&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Coding Stats
+## 💻 Weekly Development Breakdown
 
 <div align="center">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajit-programmer&theme=tokyonight" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajit-programmer&theme=github_dark" width="100%" />
 
 </div>
 
 ---
 
-## 🌟 Fun Facts
+## 🌟 Professional Highlights
 
 <div align="center">
 
-```javascript
-const funFacts = {
-    ☕: "Powered by Coffee & Code",
-    🎯: "Turning Ideas into AI Solutions",
-    🏏: "College Cricket Team Player",
-    🎪: "Event Management Team Member",
-    💡: "Always Learning, Always Building",
-    🎮: "Debug Mode: ON 24/7"
-};
-```
+| Achievement | Details |
+|:-----------|:--------|
+| 🏆 **Projects Completed** | 10+ AI/ML and Full Stack Projects |
+| 💼 **Internships** | IBM SkillsBuild • Shell Skills4Future |
+| 📚 **Certifications** | 3+ Industry Certifications |
+| 🎯 **Specialization** | Computer Vision • RAG Systems • Web Dev |
+| 🌐 **Tech Community** | Active Open Source Contributor |
+| 🏏 **Leadership** | College Cricket Team • Event Management |
 
 </div>
 
 ---
 
-## 💬 Random Dev Quote
+## 💬 Random Dev Wisdom
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ---
 
-## 🎵 Spotify Playing
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-[![Spotify](https://novatorem-ajit-programmer.vercel.app/api/spotify)](https://open.spotify.com/user/31k6ga4qmfya4ab2bs5wsrh7c2hq)
+I'm always open to interesting conversations and collaboration opportunities!
 
-</div>
+**💡 Interested in:**
+- AI/ML Projects & Research
+- Computer Vision Applications
+- Open Source Contributions
+- Full Stack Development
+- Hackathons & Tech Events
 
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<p>
-💼 Open to collaborations in AI/ML projects<br/>
-🚀 Looking for opportunities in Computer Vision & Deep Learning<br/>
-📧 Reach out: <a href="mailto:ajit12sci324@gmail.com">ajit12sci324@gmail.com</a><br/>
-📍 Based in Mumbai, India
-</p>
+**📧 Get in Touch:**
 
 <a href="https://www.linkedin.com/in/ajit-gupta-1139ab2a7">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ajit12sci324@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://github.com/Ajit-programmer">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**📍 Based in Mumbai, India** | **🎓 KJSIT CSE 2026** | **💼 Open to Opportunities**
 
 </div>
 
@@ -366,12 +345,10 @@ const funFacts = {
 
 <div align="center">
 
-### 💫 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💭 "First, solve the problem. Then, write the code." — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 
-**⭐ From [Ajit Gupta](https://github.com/Ajit-programmer) with ❤️**
-
-<sub>Last Updated: February 2026 | Made with 💙 and lots of ☕</sub>
+<sub>⭐ **From [Ajit Gupta](https://github.com/Ajit-programmer)** • Made with 💙 & ☕ • Last Updated: Feb 2026</sub>
 
 </div>
