@@ -123,6 +123,14 @@ Node.js | Express.js | MongoDB | Bootstrap | HTML | CSS
 
 <b>Note:</b> Top languages reflect public repositories and may not represent overall expertise.
 
+----
+
+## 📈 Contribution Snake
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Ajit-programmer/Ajit-programmer/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
 
 ## 📈 Contribution Graph
 
