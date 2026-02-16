@@ -128,7 +128,7 @@ Node.js | Express.js | MongoDB | Bootstrap | HTML | CSS
 ## 📈 Contribution Snake
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Ajit-programmer/Ajit-programmer/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="./images/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
