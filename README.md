@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Ajit Gupta 👋
 
-<!--
-**Ajit-programmer/Ajit-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE | AI/ML Enthusiast  
+📍 Mumbai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- AI/ML Intern (IBM SkillsBuild, Shell Skills4Future)
+- Built YOLO-based Waste Detection System
+- Built RAG-based Video Question Answering System
+- Strong in Python, ML, Computer Vision
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Languages
+Python | Java | JavaScript | SQL
+
+### 🤖 AI/ML
+YOLO | OpenCV | Scikit-Learn | Pandas | NumPy | LLaMA | RAG
+
+### 🌐 Web
+Node.js | Express.js | MongoDB | Bootstrap | HTML | CSS
+
+---
+
+## 📌 Featured Projects
+
+### 🗑 Garbage Detection App (YOLOv8)
+Real-time waste classification using YOLOv8 + Flask  
+🔗 [View Repository](https://github.com/Ajit-programmer/garbage-detection-app)
+
+### 📹 RAG-based Video QA System
+Context-aware question answering using embeddings + LLaMA  
+
+---
+
+## 📊 GitHub Stats
